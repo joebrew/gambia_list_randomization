@@ -1,0 +1,601 @@
+iteration,question
+1,I ate benachin yesterday.
+1,I slept under a mosquito net last night.
+1,I used a telephone yesterday.
+1,I used transportation other than walking yesterday.
+1,I worked yesterday.
+2,I ate benachin yesterday.
+2,I slept under a mosquito net last night.
+2,I used a telephone yesterday.
+2,I worked yesterday.
+2,I used transportation other than walking yesterday.
+3,I ate benachin yesterday.
+3,I slept under a mosquito net last night.
+3,I used transportation other than walking yesterday.
+3,I used a telephone yesterday.
+3,I worked yesterday.
+4,I ate benachin yesterday.
+4,I slept under a mosquito net last night.
+4,I used transportation other than walking yesterday.
+4,I worked yesterday.
+4,I used a telephone yesterday.
+5,I ate benachin yesterday.
+5,I slept under a mosquito net last night.
+5,I worked yesterday.
+5,I used a telephone yesterday.
+5,I used transportation other than walking yesterday.
+6,I ate benachin yesterday.
+6,I slept under a mosquito net last night.
+6,I worked yesterday.
+6,I used transportation other than walking yesterday.
+6,I used a telephone yesterday.
+7,I ate benachin yesterday.
+7,I used a telephone yesterday.
+7,I slept under a mosquito net last night.
+7,I used transportation other than walking yesterday.
+7,I worked yesterday.
+8,I ate benachin yesterday.
+8,I used a telephone yesterday.
+8,I slept under a mosquito net last night.
+8,I worked yesterday.
+8,I used transportation other than walking yesterday.
+9,I ate benachin yesterday.
+9,I used a telephone yesterday.
+9,I used transportation other than walking yesterday.
+9,I slept under a mosquito net last night.
+9,I worked yesterday.
+10,I ate benachin yesterday.
+10,I used a telephone yesterday.
+10,I used transportation other than walking yesterday.
+10,I worked yesterday.
+10,I slept under a mosquito net last night.
+11,I ate benachin yesterday.
+11,I used a telephone yesterday.
+11,I worked yesterday.
+11,I slept under a mosquito net last night.
+11,I used transportation other than walking yesterday.
+12,I ate benachin yesterday.
+12,I used a telephone yesterday.
+12,I worked yesterday.
+12,I used transportation other than walking yesterday.
+12,I slept under a mosquito net last night.
+13,I ate benachin yesterday.
+13,I used transportation other than walking yesterday.
+13,I slept under a mosquito net last night.
+13,I used a telephone yesterday.
+13,I worked yesterday.
+14,I ate benachin yesterday.
+14,I used transportation other than walking yesterday.
+14,I slept under a mosquito net last night.
+14,I worked yesterday.
+14,I used a telephone yesterday.
+15,I ate benachin yesterday.
+15,I used transportation other than walking yesterday.
+15,I used a telephone yesterday.
+15,I slept under a mosquito net last night.
+15,I worked yesterday.
+16,I ate benachin yesterday.
+16,I used transportation other than walking yesterday.
+16,I used a telephone yesterday.
+16,I worked yesterday.
+16,I slept under a mosquito net last night.
+17,I ate benachin yesterday.
+17,I used transportation other than walking yesterday.
+17,I worked yesterday.
+17,I slept under a mosquito net last night.
+17,I used a telephone yesterday.
+18,I ate benachin yesterday.
+18,I used transportation other than walking yesterday.
+18,I worked yesterday.
+18,I used a telephone yesterday.
+18,I slept under a mosquito net last night.
+19,I ate benachin yesterday.
+19,I worked yesterday.
+19,I slept under a mosquito net last night.
+19,I used a telephone yesterday.
+19,I used transportation other than walking yesterday.
+20,I ate benachin yesterday.
+20,I worked yesterday.
+20,I slept under a mosquito net last night.
+20,I used transportation other than walking yesterday.
+20,I used a telephone yesterday.
+21,I ate benachin yesterday.
+21,I worked yesterday.
+21,I used a telephone yesterday.
+21,I slept under a mosquito net last night.
+21,I used transportation other than walking yesterday.
+22,I ate benachin yesterday.
+22,I worked yesterday.
+22,I used a telephone yesterday.
+22,I used transportation other than walking yesterday.
+22,I slept under a mosquito net last night.
+23,I ate benachin yesterday.
+23,I worked yesterday.
+23,I used transportation other than walking yesterday.
+23,I slept under a mosquito net last night.
+23,I used a telephone yesterday.
+24,I ate benachin yesterday.
+24,I worked yesterday.
+24,I used transportation other than walking yesterday.
+24,I used a telephone yesterday.
+24,I slept under a mosquito net last night.
+25,I slept under a mosquito net last night.
+25,I ate benachin yesterday.
+25,I used a telephone yesterday.
+25,I used transportation other than walking yesterday.
+25,I worked yesterday.
+26,I slept under a mosquito net last night.
+26,I ate benachin yesterday.
+26,I used a telephone yesterday.
+26,I worked yesterday.
+26,I used transportation other than walking yesterday.
+27,I slept under a mosquito net last night.
+27,I ate benachin yesterday.
+27,I used transportation other than walking yesterday.
+27,I used a telephone yesterday.
+27,I worked yesterday.
+28,I slept under a mosquito net last night.
+28,I ate benachin yesterday.
+28,I used transportation other than walking yesterday.
+28,I worked yesterday.
+28,I used a telephone yesterday.
+29,I slept under a mosquito net last night.
+29,I ate benachin yesterday.
+29,I worked yesterday.
+29,I used a telephone yesterday.
+29,I used transportation other than walking yesterday.
+30,I slept under a mosquito net last night.
+30,I ate benachin yesterday.
+30,I worked yesterday.
+30,I used transportation other than walking yesterday.
+30,I used a telephone yesterday.
+31,I slept under a mosquito net last night.
+31,I used a telephone yesterday.
+31,I ate benachin yesterday.
+31,I used transportation other than walking yesterday.
+31,I worked yesterday.
+32,I slept under a mosquito net last night.
+32,I used a telephone yesterday.
+32,I ate benachin yesterday.
+32,I worked yesterday.
+32,I used transportation other than walking yesterday.
+33,I slept under a mosquito net last night.
+33,I used a telephone yesterday.
+33,I used transportation other than walking yesterday.
+33,I ate benachin yesterday.
+33,I worked yesterday.
+34,I slept under a mosquito net last night.
+34,I used a telephone yesterday.
+34,I used transportation other than walking yesterday.
+34,I worked yesterday.
+34,I ate benachin yesterday.
+35,I slept under a mosquito net last night.
+35,I used a telephone yesterday.
+35,I worked yesterday.
+35,I ate benachin yesterday.
+35,I used transportation other than walking yesterday.
+36,I slept under a mosquito net last night.
+36,I used a telephone yesterday.
+36,I worked yesterday.
+36,I used transportation other than walking yesterday.
+36,I ate benachin yesterday.
+37,I slept under a mosquito net last night.
+37,I used transportation other than walking yesterday.
+37,I ate benachin yesterday.
+37,I used a telephone yesterday.
+37,I worked yesterday.
+38,I slept under a mosquito net last night.
+38,I used transportation other than walking yesterday.
+38,I ate benachin yesterday.
+38,I worked yesterday.
+38,I used a telephone yesterday.
+39,I slept under a mosquito net last night.
+39,I used transportation other than walking yesterday.
+39,I used a telephone yesterday.
+39,I ate benachin yesterday.
+39,I worked yesterday.
+40,I slept under a mosquito net last night.
+40,I used transportation other than walking yesterday.
+40,I used a telephone yesterday.
+40,I worked yesterday.
+40,I ate benachin yesterday.
+41,I slept under a mosquito net last night.
+41,I used transportation other than walking yesterday.
+41,I worked yesterday.
+41,I ate benachin yesterday.
+41,I used a telephone yesterday.
+42,I slept under a mosquito net last night.
+42,I used transportation other than walking yesterday.
+42,I worked yesterday.
+42,I used a telephone yesterday.
+42,I ate benachin yesterday.
+43,I slept under a mosquito net last night.
+43,I worked yesterday.
+43,I ate benachin yesterday.
+43,I used a telephone yesterday.
+43,I used transportation other than walking yesterday.
+44,I slept under a mosquito net last night.
+44,I worked yesterday.
+44,I ate benachin yesterday.
+44,I used transportation other than walking yesterday.
+44,I used a telephone yesterday.
+45,I slept under a mosquito net last night.
+45,I worked yesterday.
+45,I used a telephone yesterday.
+45,I ate benachin yesterday.
+45,I used transportation other than walking yesterday.
+46,I slept under a mosquito net last night.
+46,I worked yesterday.
+46,I used a telephone yesterday.
+46,I used transportation other than walking yesterday.
+46,I ate benachin yesterday.
+47,I slept under a mosquito net last night.
+47,I worked yesterday.
+47,I used transportation other than walking yesterday.
+47,I ate benachin yesterday.
+47,I used a telephone yesterday.
+48,I slept under a mosquito net last night.
+48,I worked yesterday.
+48,I used transportation other than walking yesterday.
+48,I used a telephone yesterday.
+48,I ate benachin yesterday.
+49,I used a telephone yesterday.
+49,I ate benachin yesterday.
+49,I slept under a mosquito net last night.
+49,I used transportation other than walking yesterday.
+49,I worked yesterday.
+50,I used a telephone yesterday.
+50,I ate benachin yesterday.
+50,I slept under a mosquito net last night.
+50,I worked yesterday.
+50,I used transportation other than walking yesterday.
+51,I used a telephone yesterday.
+51,I ate benachin yesterday.
+51,I used transportation other than walking yesterday.
+51,I slept under a mosquito net last night.
+51,I worked yesterday.
+52,I used a telephone yesterday.
+52,I ate benachin yesterday.
+52,I used transportation other than walking yesterday.
+52,I worked yesterday.
+52,I slept under a mosquito net last night.
+53,I used a telephone yesterday.
+53,I ate benachin yesterday.
+53,I worked yesterday.
+53,I slept under a mosquito net last night.
+53,I used transportation other than walking yesterday.
+54,I used a telephone yesterday.
+54,I ate benachin yesterday.
+54,I worked yesterday.
+54,I used transportation other than walking yesterday.
+54,I slept under a mosquito net last night.
+55,I used a telephone yesterday.
+55,I slept under a mosquito net last night.
+55,I ate benachin yesterday.
+55,I used transportation other than walking yesterday.
+55,I worked yesterday.
+56,I used a telephone yesterday.
+56,I slept under a mosquito net last night.
+56,I ate benachin yesterday.
+56,I worked yesterday.
+56,I used transportation other than walking yesterday.
+57,I used a telephone yesterday.
+57,I slept under a mosquito net last night.
+57,I used transportation other than walking yesterday.
+57,I ate benachin yesterday.
+57,I worked yesterday.
+58,I used a telephone yesterday.
+58,I slept under a mosquito net last night.
+58,I used transportation other than walking yesterday.
+58,I worked yesterday.
+58,I ate benachin yesterday.
+59,I used a telephone yesterday.
+59,I slept under a mosquito net last night.
+59,I worked yesterday.
+59,I ate benachin yesterday.
+59,I used transportation other than walking yesterday.
+60,I used a telephone yesterday.
+60,I slept under a mosquito net last night.
+60,I worked yesterday.
+60,I used transportation other than walking yesterday.
+60,I ate benachin yesterday.
+61,I used a telephone yesterday.
+61,I used transportation other than walking yesterday.
+61,I ate benachin yesterday.
+61,I slept under a mosquito net last night.
+61,I worked yesterday.
+62,I used a telephone yesterday.
+62,I used transportation other than walking yesterday.
+62,I ate benachin yesterday.
+62,I worked yesterday.
+62,I slept under a mosquito net last night.
+63,I used a telephone yesterday.
+63,I used transportation other than walking yesterday.
+63,I slept under a mosquito net last night.
+63,I ate benachin yesterday.
+63,I worked yesterday.
+64,I used a telephone yesterday.
+64,I used transportation other than walking yesterday.
+64,I slept under a mosquito net last night.
+64,I worked yesterday.
+64,I ate benachin yesterday.
+65,I used a telephone yesterday.
+65,I used transportation other than walking yesterday.
+65,I worked yesterday.
+65,I ate benachin yesterday.
+65,I slept under a mosquito net last night.
+66,I used a telephone yesterday.
+66,I used transportation other than walking yesterday.
+66,I worked yesterday.
+66,I slept under a mosquito net last night.
+66,I ate benachin yesterday.
+67,I used a telephone yesterday.
+67,I worked yesterday.
+67,I ate benachin yesterday.
+67,I slept under a mosquito net last night.
+67,I used transportation other than walking yesterday.
+68,I used a telephone yesterday.
+68,I worked yesterday.
+68,I ate benachin yesterday.
+68,I used transportation other than walking yesterday.
+68,I slept under a mosquito net last night.
+69,I used a telephone yesterday.
+69,I worked yesterday.
+69,I slept under a mosquito net last night.
+69,I ate benachin yesterday.
+69,I used transportation other than walking yesterday.
+70,I used a telephone yesterday.
+70,I worked yesterday.
+70,I slept under a mosquito net last night.
+70,I used transportation other than walking yesterday.
+70,I ate benachin yesterday.
+71,I used a telephone yesterday.
+71,I worked yesterday.
+71,I used transportation other than walking yesterday.
+71,I ate benachin yesterday.
+71,I slept under a mosquito net last night.
+72,I used a telephone yesterday.
+72,I worked yesterday.
+72,I used transportation other than walking yesterday.
+72,I slept under a mosquito net last night.
+72,I ate benachin yesterday.
+73,I used transportation other than walking yesterday.
+73,I ate benachin yesterday.
+73,I slept under a mosquito net last night.
+73,I used a telephone yesterday.
+73,I worked yesterday.
+74,I used transportation other than walking yesterday.
+74,I ate benachin yesterday.
+74,I slept under a mosquito net last night.
+74,I worked yesterday.
+74,I used a telephone yesterday.
+75,I used transportation other than walking yesterday.
+75,I ate benachin yesterday.
+75,I used a telephone yesterday.
+75,I slept under a mosquito net last night.
+75,I worked yesterday.
+76,I used transportation other than walking yesterday.
+76,I ate benachin yesterday.
+76,I used a telephone yesterday.
+76,I worked yesterday.
+76,I slept under a mosquito net last night.
+77,I used transportation other than walking yesterday.
+77,I ate benachin yesterday.
+77,I worked yesterday.
+77,I slept under a mosquito net last night.
+77,I used a telephone yesterday.
+78,I used transportation other than walking yesterday.
+78,I ate benachin yesterday.
+78,I worked yesterday.
+78,I used a telephone yesterday.
+78,I slept under a mosquito net last night.
+79,I used transportation other than walking yesterday.
+79,I slept under a mosquito net last night.
+79,I ate benachin yesterday.
+79,I used a telephone yesterday.
+79,I worked yesterday.
+80,I used transportation other than walking yesterday.
+80,I slept under a mosquito net last night.
+80,I ate benachin yesterday.
+80,I worked yesterday.
+80,I used a telephone yesterday.
+81,I used transportation other than walking yesterday.
+81,I slept under a mosquito net last night.
+81,I used a telephone yesterday.
+81,I ate benachin yesterday.
+81,I worked yesterday.
+82,I used transportation other than walking yesterday.
+82,I slept under a mosquito net last night.
+82,I used a telephone yesterday.
+82,I worked yesterday.
+82,I ate benachin yesterday.
+83,I used transportation other than walking yesterday.
+83,I slept under a mosquito net last night.
+83,I worked yesterday.
+83,I ate benachin yesterday.
+83,I used a telephone yesterday.
+84,I used transportation other than walking yesterday.
+84,I slept under a mosquito net last night.
+84,I worked yesterday.
+84,I used a telephone yesterday.
+84,I ate benachin yesterday.
+85,I used transportation other than walking yesterday.
+85,I used a telephone yesterday.
+85,I ate benachin yesterday.
+85,I slept under a mosquito net last night.
+85,I worked yesterday.
+86,I used transportation other than walking yesterday.
+86,I used a telephone yesterday.
+86,I ate benachin yesterday.
+86,I worked yesterday.
+86,I slept under a mosquito net last night.
+87,I used transportation other than walking yesterday.
+87,I used a telephone yesterday.
+87,I slept under a mosquito net last night.
+87,I ate benachin yesterday.
+87,I worked yesterday.
+88,I used transportation other than walking yesterday.
+88,I used a telephone yesterday.
+88,I slept under a mosquito net last night.
+88,I worked yesterday.
+88,I ate benachin yesterday.
+89,I used transportation other than walking yesterday.
+89,I used a telephone yesterday.
+89,I worked yesterday.
+89,I ate benachin yesterday.
+89,I slept under a mosquito net last night.
+90,I used transportation other than walking yesterday.
+90,I used a telephone yesterday.
+90,I worked yesterday.
+90,I slept under a mosquito net last night.
+90,I ate benachin yesterday.
+91,I used transportation other than walking yesterday.
+91,I worked yesterday.
+91,I ate benachin yesterday.
+91,I slept under a mosquito net last night.
+91,I used a telephone yesterday.
+92,I used transportation other than walking yesterday.
+92,I worked yesterday.
+92,I ate benachin yesterday.
+92,I used a telephone yesterday.
+92,I slept under a mosquito net last night.
+93,I used transportation other than walking yesterday.
+93,I worked yesterday.
+93,I slept under a mosquito net last night.
+93,I ate benachin yesterday.
+93,I used a telephone yesterday.
+94,I used transportation other than walking yesterday.
+94,I worked yesterday.
+94,I slept under a mosquito net last night.
+94,I used a telephone yesterday.
+94,I ate benachin yesterday.
+95,I used transportation other than walking yesterday.
+95,I worked yesterday.
+95,I used a telephone yesterday.
+95,I ate benachin yesterday.
+95,I slept under a mosquito net last night.
+96,I used transportation other than walking yesterday.
+96,I worked yesterday.
+96,I used a telephone yesterday.
+96,I slept under a mosquito net last night.
+96,I ate benachin yesterday.
+97,I worked yesterday.
+97,I ate benachin yesterday.
+97,I slept under a mosquito net last night.
+97,I used a telephone yesterday.
+97,I used transportation other than walking yesterday.
+98,I worked yesterday.
+98,I ate benachin yesterday.
+98,I slept under a mosquito net last night.
+98,I used transportation other than walking yesterday.
+98,I used a telephone yesterday.
+99,I worked yesterday.
+99,I ate benachin yesterday.
+99,I used a telephone yesterday.
+99,I slept under a mosquito net last night.
+99,I used transportation other than walking yesterday.
+100,I worked yesterday.
+100,I ate benachin yesterday.
+100,I used a telephone yesterday.
+100,I used transportation other than walking yesterday.
+100,I slept under a mosquito net last night.
+101,I worked yesterday.
+101,I ate benachin yesterday.
+101,I used transportation other than walking yesterday.
+101,I slept under a mosquito net last night.
+101,I used a telephone yesterday.
+102,I worked yesterday.
+102,I ate benachin yesterday.
+102,I used transportation other than walking yesterday.
+102,I used a telephone yesterday.
+102,I slept under a mosquito net last night.
+103,I worked yesterday.
+103,I slept under a mosquito net last night.
+103,I ate benachin yesterday.
+103,I used a telephone yesterday.
+103,I used transportation other than walking yesterday.
+104,I worked yesterday.
+104,I slept under a mosquito net last night.
+104,I ate benachin yesterday.
+104,I used transportation other than walking yesterday.
+104,I used a telephone yesterday.
+105,I worked yesterday.
+105,I slept under a mosquito net last night.
+105,I used a telephone yesterday.
+105,I ate benachin yesterday.
+105,I used transportation other than walking yesterday.
+106,I worked yesterday.
+106,I slept under a mosquito net last night.
+106,I used a telephone yesterday.
+106,I used transportation other than walking yesterday.
+106,I ate benachin yesterday.
+107,I worked yesterday.
+107,I slept under a mosquito net last night.
+107,I used transportation other than walking yesterday.
+107,I ate benachin yesterday.
+107,I used a telephone yesterday.
+108,I worked yesterday.
+108,I slept under a mosquito net last night.
+108,I used transportation other than walking yesterday.
+108,I used a telephone yesterday.
+108,I ate benachin yesterday.
+109,I worked yesterday.
+109,I used a telephone yesterday.
+109,I ate benachin yesterday.
+109,I slept under a mosquito net last night.
+109,I used transportation other than walking yesterday.
+110,I worked yesterday.
+110,I used a telephone yesterday.
+110,I ate benachin yesterday.
+110,I used transportation other than walking yesterday.
+110,I slept under a mosquito net last night.
+111,I worked yesterday.
+111,I used a telephone yesterday.
+111,I slept under a mosquito net last night.
+111,I ate benachin yesterday.
+111,I used transportation other than walking yesterday.
+112,I worked yesterday.
+112,I used a telephone yesterday.
+112,I slept under a mosquito net last night.
+112,I used transportation other than walking yesterday.
+112,I ate benachin yesterday.
+113,I worked yesterday.
+113,I used a telephone yesterday.
+113,I used transportation other than walking yesterday.
+113,I ate benachin yesterday.
+113,I slept under a mosquito net last night.
+114,I worked yesterday.
+114,I used a telephone yesterday.
+114,I used transportation other than walking yesterday.
+114,I slept under a mosquito net last night.
+114,I ate benachin yesterday.
+115,I worked yesterday.
+115,I used transportation other than walking yesterday.
+115,I ate benachin yesterday.
+115,I slept under a mosquito net last night.
+115,I used a telephone yesterday.
+116,I worked yesterday.
+116,I used transportation other than walking yesterday.
+116,I ate benachin yesterday.
+116,I used a telephone yesterday.
+116,I slept under a mosquito net last night.
+117,I worked yesterday.
+117,I used transportation other than walking yesterday.
+117,I slept under a mosquito net last night.
+117,I ate benachin yesterday.
+117,I used a telephone yesterday.
+118,I worked yesterday.
+118,I used transportation other than walking yesterday.
+118,I slept under a mosquito net last night.
+118,I used a telephone yesterday.
+118,I ate benachin yesterday.
+119,I worked yesterday.
+119,I used transportation other than walking yesterday.
+119,I used a telephone yesterday.
+119,I ate benachin yesterday.
+119,I slept under a mosquito net last night.
+120,I worked yesterday.
+120,I used transportation other than walking yesterday.
+120,I used a telephone yesterday.
+120,I slept under a mosquito net last night.
+120,I ate benachin yesterday.
